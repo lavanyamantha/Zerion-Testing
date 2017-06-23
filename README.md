@@ -3,7 +3,7 @@ Automating the two testing activities for Zerion Testing
 
 *Pre-requisites*:
 
-1. JAVA 8 JRE installed
+1. JAVA 8 JDK installed
 2. Editor - IntelliJ IDEA Or Eclipse
 3. Web browser - Chrome browser
 
