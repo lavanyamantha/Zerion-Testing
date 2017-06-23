@@ -40,6 +40,7 @@ b) From your terminal - git clone https://github.com/lavanyamantha/Zerion-Testin
       include in dev build/test/deploy as a stage in current pipeline
       reporting support - attach reports to test runs
  2. Communication of test result - Through Jenkins - send emails/ notify slack etc.
+ 3. Incorporate Behavior Driven Development (BDD) framework withing this test design. Write .feature files for test cases following Gherkin syntax and implement the step definitions using Selenium+Java. (I am well versed with this test design too.)
     
 
 
