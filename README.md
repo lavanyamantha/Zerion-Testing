@@ -7,6 +7,17 @@ Automating the two testing activities for Zerion Testing
 2. Editor - IntelliJ IDEA Or Eclipse
 3. Web browser - Chrome browser
 
+*How to checkout/import/open the project:*
+
+1. clone/checkout this project by
+a) either downloading the project and opening the pom.xml file from your editor
+b) From your terminal - git clone https://github.com/lavanyamantha/Zerion-Testing.git and open the pom.xml file from your editor
+2. Make sure to do maven sync to import dependencies/.jars in your editor
+3. Run command - mvn clean build from terminl Or Build Project in your editor
+4. Right-click the test class file and Run/Debug in editor
+5. The test should open the web browser and run the tests and result displayed in edotor's console.
+
+
 *Tools/Technology stack used for development*:
 
 1. Editor - IntelliJ IDEA for test development
