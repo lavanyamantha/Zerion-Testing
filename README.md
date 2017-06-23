@@ -15,6 +15,11 @@ Automating the two testing activities for Zerion Testing
 2. Make sure to do maven sync to import dependencies/.jars in your editor
 3. Run command - mvn clean build from terminl Or Build Project in your editor
 4. Right-click the test class file and Run/Debug in editor
+* The 2 tests are at
+   ``` 
+   https://github.com/lavanyamantha/Zerion-Testing/blob/master/src/test/java/LoginCreateNewUser.java
+   https://github.com/lavanyamantha/Zerion-Testing/blob/master/src/test/java/LoginCreateRecord.java
+   ```
 5. The test should open the web browser and run the tests and result displayed in edotor's console.
 
 
