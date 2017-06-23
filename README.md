@@ -10,8 +10,8 @@ Automating the two testing activities for Zerion Testing
 *How to checkout/import/open the project:*
 
 1. clone/checkout this project by
-a) either downloading the project and opening the pom.xml file from your editor
-b) From your terminal - git clone https://github.com/lavanyamantha/Zerion-Testing.git and open the pom.xml file from your editor
+* a) either downloading the project and opening the pom.xml file from your editor
+* b) From your terminal - git clone https://github.com/lavanyamantha/Zerion-Testing.git and open the pom.xml file from your editor
 2. Make sure to do maven sync to import dependencies/.jars in your editor
 3. Run command - mvn clean build from terminl Or Build Project in your editor
 4. Right-click the test class file and Run/Debug in editor
@@ -26,19 +26,20 @@ b) From your terminal - git clone https://github.com/lavanyamantha/Zerion-Testin
 4. Java - Programming language
 5. Git/GitHub - Maintaing code in central repository
 6. Test Design - Maintained proper structure for 
-    Config data, 
-    Object rpository, 
-    Base class for webdriver instantiation,
-    Utility class for helper methods,
-    IFormBuilderTestCase class for all common methods to be used in all tests,
-    Take screenshot when tests fails.
+    * Config data, 
+    * Object rpository, 
+    * Base class for webdriver instantiation,
+    * Utility class for helper methods,
+    * IFormBuilderTestCase class for all common methods to be used in all tests,
+    * Take screenshot when tests fails.
+    * Support for Chromebrowser, Firefox & IE browsers. (Hardoded to chrome for now. Can be parameterized to do cross-browser testing.)
     
  *Things we can do Next*:
  
  1. Integrate with CI tools like Jenkins as 
-      independent test build job Or
-      include in dev build/test/deploy as a stage in current pipeline
-      reporting support - attach reports to test runs
+      * independent test build job Or
+      * include in dev build/test/deploy as a stage in current pipeline
+      * reporting support - attach reports to test runs
  2. Communication of test result - Through Jenkins - send emails/ notify slack etc.
  3. Incorporate Behavior Driven Development (BDD) framework withing this test design. Write .feature files for test cases following Gherkin syntax and implement the step definitions using Selenium+Java. (I am well versed with this test design too.)
     
