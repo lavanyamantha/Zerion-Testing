@@ -48,6 +48,10 @@ Automating the two testing activities for Zerion Testing
  2. Communication of test result - Through Jenkins - send emails/ notify slack etc.
  3. Incorporate Behavior Driven Development (BDD) framework within this test design. Write .feature files for test cases following Gherkin syntax and implement the step definitions using Selenium+Java. (I am well versed with this test design too.)
     
-
+**Video of test execution of the 2 tasks Passing**. Please download the below to view the video -
+```
+https://github.com/lavanyamantha/Zerion-Testing/blob/c0cc2946a6f839b356ef85c29e9086033efd2873/CreateNewRecord.mov
+https://github.com/lavanyamantha/Zerion-Testing/blob/c0cc2946a6f839b356ef85c29e9086033efd2873/CreateNewUser.mov
+```
 
 
