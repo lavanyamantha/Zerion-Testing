@@ -29,7 +29,7 @@ Automating the two testing activities for Zerion Testing
 2. Test Framework - TestNG
 3. Build dependency - Maven (selenium, testng, log4J)
 4. Java - Programming language
-5. Git/GitHub - T commit/puh code to Central repo & maintain
+5. Git/GitHub - To commit/push code to Central repo & maintain
 6. Test Design - Maintained proper structure for 
     * Config data, 
     * Object rpository, 
